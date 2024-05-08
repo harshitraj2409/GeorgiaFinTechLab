@@ -23,10 +23,13 @@ Check out our demo video to see the platform in action:
 2. edgartools - Used to extract the SEC data of form "10-k" of Nvidia and Google.
    This provides with an easy to use functionality package, hence this was used.
 
-3. Langchain - LangChain is an open source framework for building applications based on large language models (LLMs).
+3. BeautifulSoup - Beautiful Soup is a Python package for parsing HTML and XML documents, including those with malformed markup. It creates a parse tree for documents that 
+   can be used to extract data from HTML, which is useful for web scraping.
+
+4. Langchain - LangChain is an open source framework for building applications based on large language models (LLMs).
    This provides us with easy to use libraries to handle the functionalities of LLMs.
 
-4. OpenAI - OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial 
+5. OpenAI - OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial 
    intelligence benefits all of humanity.
    OpenAI embeddings - it was used to create embeddings of the text.
    The embedding is pretty decent and produces excellent result.
@@ -72,6 +75,21 @@ Check out our demo video to see the platform in action:
 10. Future Prospects: Assessing the company's future prospects involves analyzing factors such as growth opportunities, market trends, and strategic initiatives. This insight helps investors gauge the company's potential for long-term success and value creation.
     
 11. Overall Analysis: Summarizing and synthesizing insights from the above categories provides a holistic view of the company's performance, prospects, and risks. This insight helps stakeholders make informed decisions and assess the company's overall investment potential.
+
+
+## Files
+
+1.Extraction1.ipynb - Basic approach to extract the sec 10-k data using sec edgar and scrapping it using BeautifulSoup.
+2.EdgarDataExtraction.ipynb - Use of edgartools library to extract the data.
+3.RAG.ipynb - Contains the code to preprocess the data and generate valuable insights using RAG techniques
+4.index.html - contains the deployment codes
+5.styles.css - contains styling code
+6.script.js - contains the code to manage the user interaction 
+7.google.txt - contains the text file of sec 10-k data of Google from 1995 to 2023
+8.nvidia.txt - contains the text file of sec 10-k data of Nvidia from 1995 to 2023
+9.plots.ipynb - contains the code to generate visualizations based on the insight gained from the data
+10.requirements.txt - contains required packages
+
 
 
 
