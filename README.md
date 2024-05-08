@@ -9,3 +9,9 @@ Extensive Data Coverage: Access SEC 10-K filings dating back to 1995, offering a
 OpenAI LLM Integration: Utilize state-of-the-art natural language processing to extract and analyze key information from the filings.
 Insightful Analysis: Gain valuable insights into the financial performance and conditions of Nvidia and Google through advanced analytics.
 Visualization: Visualize the financial data in intuitive and informative formats, aiding in the interpretation of trends and patterns.
+
+## Demo Video
+
+Check out our demo video to see the platform in action:
+
+[![Demo Video](https://example.com/demo_thumbnail.jpg)](https://youtu.be/CQXHkmRaeMQ)
