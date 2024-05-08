@@ -80,14 +80,23 @@ Check out our demo video to see the platform in action:
 ## Files
 
 1.Extraction1.ipynb - Basic approach to extract the sec 10-k data using sec edgar and scrapping it using BeautifulSoup.
+
 2.EdgarDataExtraction.ipynb - Use of edgartools library to extract the data.
+
 3.RAG.ipynb - Contains the code to preprocess the data and generate valuable insights using RAG techniques
+
 4.index.html - contains the deployment codes
+
 5.styles.css - contains styling code
+
 6.script.js - contains the code to manage the user interaction 
+
 7.google.txt - contains the text file of sec 10-k data of Google from 1995 to 2023
+
 8.nvidia.txt - contains the text file of sec 10-k data of Nvidia from 1995 to 2023
+
 9.plots.ipynb - contains the code to generate visualizations based on the insight gained from the data
+
 10.requirements.txt - contains required packages
 
 
