@@ -14,4 +14,4 @@ Visualization: Visualize the financial data in intuitive and informative formats
 
 Check out our demo video to see the platform in action:
 
-[![Demo Video](https://example.com/demo_thumbnail.jpg)](https://youtu.be/CQXHkmRaeMQ)
+[![Demo Video](C:\Users\harsh\OneDrive\Desktop\GeorgiaTech\nvidia_pic.jpg)](https://youtu.be/CQXHkmRaeMQ)
