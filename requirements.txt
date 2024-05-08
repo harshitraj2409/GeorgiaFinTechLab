@@ -3,3 +3,4 @@ pip install langchain
 pip install openai
 pip install statsmodels
 pip install faiss
+pip install seaborn
