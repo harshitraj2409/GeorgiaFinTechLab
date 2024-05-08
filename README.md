@@ -1,2 +1,11 @@
 # GeorgiaFinTechLab
-This repository is for performing a detailed analysis of Nvidia and Google on the basis of sec 10-k filings of them from 1995 to 2023. The use of OpenAI LLM powers a user to gain valuable insights from the extracted filing data and visualize the financial conditions of these stocks.
+Welcome to the Nvidia and Google Analysis Repository!
+
+This repository provides a comprehensive analysis of Nvidia and Google based on their SEC 10-K filings spanning from 1995 to 2023. Leveraging the cutting-edge capabilities of OpenAI's Language Model (LLM), users can delve into valuable insights extracted from these filings. Our platform enables users to conduct retrieval-augmented generation, facilitating a deeper understanding of the financial landscape surrounding these tech giants.
+
+Key Features:
+
+Extensive Data Coverage: Access SEC 10-K filings dating back to 1995, offering a rich historical perspective on Nvidia and Google.
+OpenAI LLM Integration: Utilize state-of-the-art natural language processing to extract and analyze key information from the filings.
+Insightful Analysis: Gain valuable insights into the financial performance and conditions of Nvidia and Google through advanced analytics.
+Visualization: Visualize the financial data in intuitive and informative formats, aiding in the interpretation of trends and patterns.
