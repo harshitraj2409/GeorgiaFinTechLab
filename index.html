@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Adding my custom styles here */
+        .visualizations img {
+            max-width: 700px; /* Limit the maximum width of the images */
+            margin: 50px; /* Add some margin around each image */
+            border-radius: 25px; /* Add a border radius for a nicer look */
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Choose a Company:</h1>
+        <div class="options">
+            <button id="nvidiaBtn">Nvidia</button>
+            <button id="googleBtn">Google</button>
+        </div>
+        <div id="dropdownContainer" class="hidden">
+            <select id="dropdown">
+                <option value="insights">Insights</option>
+                <option value="visualizations">Visualizations</option>
+            </select>
+        </div>
+        <div id="insightsOptions" class="hidden">
+            <h2>Company Insights:</h2>
+            <div class="insights">
+                <!-- Insights buttons will be added dynamically -->
+            </div>
+            <p id="insightsOutput"></p>
+        </div>
+        <div id="visualizationsOptions" class="hidden">
+            <h2>Company Visualizations:</h2>
+            <div class="visualizations" id="nvidiaVisualizations">
+                <!-- Nvidia images will be displayed here -->
+                <img src="nvidia_bs.png" alt="Image 1">
+                <img src="Nvidia_returns.png" alt="Image 2">
+                <img src="nvidia images\nvidia_vol.png" alt="Image 3">
+                <img src="nvidia images\nvidia_dcf.png" alt="Image 4">
+                <img src="nvidia_spd.png" alt="Image 5">
+                <img src="Nvidia_pie.png" alt="Image 6">
+                <img src="nvidia_comp.png" alt="Image 7">
+                <img src="nvidia_cum.png" alt="Image 8">
+                <img src="nvidia images\nvidia_ma.png" alt="Image 9">
+                <!-- Add more images as needed -->
+            </div>
+            <div class="visualizations" id="googleVisualizations">
+                <img src="google_bs.png" alt="Image 1">
+                <img src="google_position.png" alt="Image 2">
+                <img src="google_rev.png" alt="Image 3">
+                <img src="google_ads.png" alt="Image 4">
+                <img src="goog_hist.png" alt="Image 5">
+                <img src="google_marketshare.png" alt="Image 6">
+                <img src="goog_voli.png" alt="Image 7">
+                <img src="goog_fr.png" alt="Image 8">
+                <!-- Google images will be displayed here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
