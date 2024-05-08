@@ -6,8 +6,11 @@ This repository provides a comprehensive analysis of Nvidia and Google based on 
 Key Features:
 
 Extensive Data Coverage: Access SEC 10-K filings dating back to 1995, offering a rich historical perspective on Nvidia and Google.
+
 OpenAI LLM Integration: Utilize state-of-the-art natural language processing to extract and analyze key information from the filings.
+
 Insightful Analysis: Gain valuable insights into the financial performance and conditions of Nvidia and Google through advanced analytics.
+
 Visualization: Visualize the financial data in intuitive and informative formats, aiding in the interpretation of trends and patterns.
 
 ## Demo Video
