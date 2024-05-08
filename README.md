@@ -99,6 +99,8 @@ Check out our demo video to see the platform in action:
 
 10.requirements.txt - contains required packages
 
+11.Video_Dashboard - contains a link to the demo video
+
 
 
 
