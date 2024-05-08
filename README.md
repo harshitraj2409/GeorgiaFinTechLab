@@ -14,7 +14,7 @@ Visualization: Visualize the financial data in intuitive and informative formats
 
 Check out our demo video to see the platform in action:
 
-[![Demo Video]()](https://youtu.be/CQXHkmRaeMQ)
+[![ Link to Demo Video]()](https://youtu.be/CQXHkmRaeMQ)
 
 ## Tech Stack
 
